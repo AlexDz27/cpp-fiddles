@@ -1,0 +1,6 @@
+#ifndef UNTITLED_GETOPERATION_H
+#define UNTITLED_GETOPERATION_H
+
+#endif //UNTITLED_GETOPERATION_H
+
+char getOperation();
